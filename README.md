@@ -43,5 +43,5 @@ At the end of this training program, there will be quizzes that perfectly reflec
 Intellipaat Course Completion Certificate will be awarded upon the completion of the project work (after expert review) and upon scoring at least 60% marks in the quiz. Intellipaat certification is well recognized in top 80+ MNCs like Ericsson, Cisco, Cognizant, Sony, Mu Sigma, Saint-Gobain, Standard Chartered, TCS, Genpact, Hexaware, etc.
 
 ## Key Resources:-
-### - [Learn Big Data](https://intellipaat.com/blog/big-data-tutorial-for-beginners/) 
-### - [Interview Questions on Big Data](https://intellipaat.com/blog/interview-question/big-data-hadoop-interview-questions/)
+#### - [Learn Big Data](https://intellipaat.com/blog/big-data-tutorial-for-beginners/) 
+#### - [Interview Questions on Big Data](https://intellipaat.com/blog/interview-question/big-data-hadoop-interview-questions/)
